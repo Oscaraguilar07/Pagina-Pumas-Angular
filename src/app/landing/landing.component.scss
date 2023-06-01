@@ -1,0 +1,123 @@
+/*------------navbar------------*/
+.fondonav{
+    background-color: red;
+    width: 100%;  
+    height: 75px;
+}
+
+
+.logo{
+ 
+    padding: 10px;
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    right:  5%;
+   
+}
+
+
+.barrag{
+    width: 750px;
+    height: 75px;
+    position: absolute;
+    left: 10%;
+    top: 30px;
+}
+
+
+.barrap{
+    width: 500px;
+    height: 50px;
+    position: absolute;
+    left: 60%;
+    top: 40px;
+}
+
+
+.PUMADC{
+    position: absolute;
+    text-align: center;
+    padding: 50px;
+}
+/*------------navbar------------*/
+
+
+.hamburguesa{
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 90%;
+    top: 500PX;
+   
+}
+
+
+/*------------GAAMEDAY------------*/
+
+
+.gameday{
+    padding: 20px;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 20%;
+}
+
+
+.acompañanos{
+    text-decoration-line: underline;
+    position: absolute;
+    left: 50%;
+    top: 300px;
+}
+
+
+.cardgame{
+ 
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 45%;
+    top: 350px;
+}
+
+
+
+
+
+
+/*------------GAAMEDAY------------*/
+
+
+
+
+.texto-beneficio {
+    padding: 20px;
+    border-right-color: yellow;
+    border-right-style: solid;
+    border-right-width: 2px; /* Cambiando este valor, puedes cambiar el ancho del borde */
+    padding-right: 5px; /* Con este padding, puedes separar el texto del borde */
+}
+
+
+.texto-beneficio-horario {
+    padding: 20px;
+    border-left-color: yellow;
+    border-left-style: solid;
+    border-left-width: 2px; /* Cambiando este valor, puedes cambiar el ancho del borde */
+    padding-right: 5px; /* Con este padding, puedes separar el texto del borde */
+}
+
+
+
+
+
+
+.fondofooter{
+    background-color: red;
+    width: 100%;  
+    height: 100px;
+    padding: auto;
+}
